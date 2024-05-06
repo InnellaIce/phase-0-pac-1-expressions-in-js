@@ -19,6 +19,7 @@ _evaluation_.
 
 ### Practice Practice Practice
 
+
 Previously, we saw a tool that allowed us to have a conversation with
 JavaScript. This tool is known as a REPL, short for [Read Evaluate Print
 Loop][repl]. As we've seen, we can type in an expression in the console and the
@@ -121,3 +122,4 @@ on these Essential Three Expressions._**
 
 [repl]: https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop
 [replit.com]: https://replit.com/languages/javascript
+Done
